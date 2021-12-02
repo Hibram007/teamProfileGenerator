@@ -1,0 +1,26 @@
+{
+  "name": "teamprofilegenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "jest": "^27.4.3",
+    "node": "^17.1.0",
+    "open": "^8.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hibram007/teamProfileGenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hibram007/teamProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/Hibram007/teamProfileGenerator#readme"
+}
