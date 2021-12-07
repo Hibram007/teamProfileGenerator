@@ -8,6 +8,15 @@ This App has been created to meet the M.10 OOP ( Objet Oriented Programmming cha
 - Jest
 - Inquirer
 
+## References
+- U of A tutor and TA
+- Github
+- Stack overflow
+- Youtube
+- Inquiere docs
+- Jest Docs ( for testing).
+- m.10 testing code and lessons structure.
+
 ## How to Install ( In your terminal)
 - git clone git@github.com:Hibram007/teamProfileGenerator.git
 
